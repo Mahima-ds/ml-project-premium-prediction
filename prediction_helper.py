@@ -2,12 +2,12 @@ import pandas as pd
 from joblib import load
 
 # Load models
-model_rest = load(r"artifacts\model_rest.joblib")
-model_young = load(r"artifacts\model_young.joblib")
+model_rest = load("artifacts/model_rest.joblib")
+model_young = load("artifacts/model_young.joblib")
 
 # Load scalers
-scaler_rest = load(r"artifacts\scaler_rest.joblib")
-scaler_young = load(r"artifacts\scaler_young.joblib")
+scaler_rest = load("artifacts/scaler_rest.joblib")
+scaler_young = load("artifacts/scaler_young.joblib")
 
 # ---------- Risk Score Calculation ----------
 
