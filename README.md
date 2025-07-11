@@ -90,7 +90,7 @@ The model is trained on synthetic health insurance data with the following field
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
+This project is licensed under the Apache License 2.0. Feel free to use and modify it according to your needs.
 
 ---
 
